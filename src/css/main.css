@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#content {
+    margin: 30px auto;
+    background-color: white;
+    display: "block";
+    padding: 5px;
+}
+
+#content p {
+    display: inline-block;
+    vertical-align: middle; 
+}
+
+img {
+    width:60%;
+}
